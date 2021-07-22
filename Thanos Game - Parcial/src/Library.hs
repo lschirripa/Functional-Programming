@@ -25,7 +25,3 @@ data Universo = Universo {
 personajes :: [Personaje]
 
 }
-
--- chasquear Guantelete Universo
---  | puedeChasquear guantelete = length (personajes Universo)
---  | otherwise = 1
