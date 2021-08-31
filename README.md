@@ -3,4 +3,4 @@
 
 - All of them simulate being kind of a game with their respectively requirements in each readme.md
 
-- None of these projects are absolutely mine, only the resolution that was made in group.
+- None of these projects are absolutely mine, only the resolution.
